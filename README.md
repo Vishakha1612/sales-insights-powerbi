@@ -1,7 +1,7 @@
 # 📊 Sales Insights Dashboard (Power BI)
 
 ## 🔹 Project Overview
-This project is a **Sales Insights Dashboard** built for **Atliq Hardware** to analyze sales data and provide business insights.  
+This project is a **Sales Insights Dashboard** built for hardware company to analyze sales data and provide business insights.  
 It helps business users track **Revenue Trends, Top Customers, Regional Performance, and Product Insights** using **Power BI**.
 
 ---
@@ -28,3 +28,4 @@ It helps business users track **Revenue Trends, Top Customers, Regional Performa
 (screenshot.png)
 
 ---
+
